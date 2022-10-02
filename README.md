@@ -1,4 +1,4 @@
-![alt text](https://thumbs.dreamstime.com/b/galaxy-space-banner-view-telescope-distant-illustration-76836650.jpg)
+![alt text](https://t3.ftcdn.net/jpg/03/55/96/10/360_F_355961032_sdUQt6ncjxVOYPBya7ztOo4UrZdCLal4.jpg)
 
 
 ### Hi FOLKS 👋
