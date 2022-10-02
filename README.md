@@ -1,6 +1,5 @@
 ### Hi FOLKS 👋
 
-<!--
 
 - 🔭 I’m currently working on a Website for one of our school club called CIAM 
 - 🌱 I’m currently learning DJANGO & React
@@ -9,4 +8,4 @@
 - 💬 Ask me about anything , anytime
 - 📫 How to reach me: @Fox_boy4
 - ⚡ Fun fact: I like coding :/
--->
+
