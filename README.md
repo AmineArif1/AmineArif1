@@ -2,7 +2,7 @@
 
 
 ### Hi FOLKS 👋
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AmineArif1)
 
 - 🔭 I’m currently working on a Website for one of our school club called CIAM 
 - 🌱 I’m currently learning SPRING & REACT
