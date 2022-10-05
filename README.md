@@ -12,7 +12,6 @@
 - 📫 How to reach me: @Fox_boy4
 - ⚡ Fun fact: I like coding :/
 
-<<<<<<< HEAD
+
 hola
-=======
 
