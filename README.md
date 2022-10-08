@@ -17,6 +17,6 @@
 </span>
 	<!-- /twitter/follow/:user?label=Follo -->
 <span>
-  <a href="https://twitter.com/Fox_boy4" target="_blank"><img alt="OiAb's LinkdeIN" src="[https://img.shields.io/twitter/follow/:user?label=Follo](https://img.shields.io/twitter/follow/Fox_boy4?style=social)" /></a>
+  <a href="https://twitter.com/Fox_boy4" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/twitter/follow/Fox_boy4?style=social" /></a>
 </span>
 </div>
