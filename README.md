@@ -20,3 +20,4 @@
   <a href="https://twitter.com/Fox_boy4" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/twitter/follow/Fox_boy4?style=social" /></a>
 </span>
 </div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmineArif1)](https://github.com/AmineArif1/github-readme-stats)
