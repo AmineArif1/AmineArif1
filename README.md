@@ -3,6 +3,7 @@
 
 ### Hi FOLKS 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AmineArif1)
+![](https://github.com/AmineArif1/AmineArif1/raw/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on a Website for one of our school club called CIAM 
 - 🌱 I’m currently learning SPRING & REACT
