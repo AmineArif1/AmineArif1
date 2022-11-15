@@ -6,7 +6,7 @@
 ![](https://github.com/AmineArif1/AmineArif1/raw/output/github-contribution-grid-snake.svg)
 
 - 🔭 I’m currently working on a Website for one of our school club called CIAM 
-- 🌱 I’m currently learning SPRING & REACT
+- 🌱 I’m currently learning SPRING
 - 🤔 I’m looking for help with roadmapping my computer science career XD
 - 💬 Ask me about anything , anytime!
 - 📫 How to reach me: @Fox_boy4
