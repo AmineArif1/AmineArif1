@@ -5,12 +5,12 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AmineArif1)
 ![](https://github.com/AmineArif1/AmineArif1/raw/output/github-contribution-grid-snake.svg)
 
-- 🔭 I’m currently working on a Website for one of our school club called CIAM 
-- 🌱 I’m currently learning SPRING
-- 🤔 I’m looking for help with roadmapping my computer science career XD
-- 💬 Ask me about anything , anytime!
-- 📫 How to reach me: @Fox_boy4
-- ⚡ Fun fact: I like coding :/
+- I’m currently working on a Website for one of our school club called CIAM 
+- I’m currently learning SPRING
+- I’m looking for help with roadmapping my computer science career XD
+- Ask me about anything , anytime!
+- How to reach me: @Fox_boy4
+- Fun fact: I like coding :/
 
 <div style="display:flex">
 <span>
