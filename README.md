@@ -16,7 +16,5 @@
   <a href="https://www.linkedin.com/in/amine-el-arif-b1b42b122/" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </span>
 	<!-- /twitter/follow/:user?label=Follo -->
-<span>
-  <a href="https://twitter.com/LazyKillua2" target="_blank"><img alt="OiAb's LinkdeIN" src="https://img.shields.io/twitter/follow/Fox_boy4?style=social" /></a>
-</span>
+
 </div>
